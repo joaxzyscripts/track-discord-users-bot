@@ -7,5 +7,5 @@ This allows the bot to see other the user opened discord or not.
 ## O que ele faz
 Eu criei este bot para se divertir para rastrear usuários, ele registrará muitas coisas dos usuários e você poderá ver estatísticas específicas sobre eles usando um comando.
 
-Ele também usa uma coisa de discórdia que o tornará online e mais tarde offline, quando você entrar no Discord (que se você tiver o modo offline ativo).
+Ele também usa uma coisa do discord que o tornará online e mais tarde offline, quando você entrar no Discord (isso se você tiver o modo offline ativo).
 Isso permite que o bot veja se o usuário abriu o Discord ou não. 
